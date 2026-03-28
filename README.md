@@ -65,9 +65,14 @@ The analysis clearly shows the impact of the COVID-19 pandemic on healthcare ope
 ---
 
 ## 📷 Dashboard Preview
+### 📊 Tableau Dashboard 1
+![Tableau Dashboard 1](Tableau.png)
 
+### 📊 Tableau Dashboard 2
+![Tableau Dashboard 2](Tableau_2.png)
 
-
+### 📊 Power BI Dashboard
+![Power BI Dashboard](Power-Bi.png)
 ---
 
 ## 🚀 Future Improvements
