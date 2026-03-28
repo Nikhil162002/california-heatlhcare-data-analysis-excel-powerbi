@@ -5,6 +5,17 @@ This project focuses on analyzing healthcare data from California hospitals to i
 
 ---
 
+## 📁 Project Structure
+california-healthcare-data-analysis-excel-powerbi/
+│── Healthcare_Project.pptx
+│── Hospital_Dataset.xlsx
+│── Power-Bi.png
+│── Tableau.png
+│── Tableau_2.png
+│── README.md
+
+---
+
 ## 🎯 Objectives
 - Analyze hospital performance and patient data
 - Identify trends in revenue, expenses, and patient care
